@@ -6,11 +6,13 @@ import MainLayout from '../Layout/MainLayout';
 import Donation from '../Pages/Donation';
 import Statistics from '../Pages/Statistics';
 import CardDetails from '../Components/CardDetails/CardDetails';
+import ErrorPage from '../Components/ErrorPage/ErrorPage';
 
 const route = createBrowserRouter([
     {
         path: '/',
         element: <MainLayout></MainLayout>,
+        errorElement: <ErrorPage></ErrorPage>,
         children:[
             {
                 path: '/',
