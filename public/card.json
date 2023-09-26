@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.ibb.co/bRDvXXC/Health.png",
+        "title": "Clean water for children",
+        "desc": "Clean water is a lifeline for children worldwide. Access to safe drinking water is crucial for their survival, growth, and development. Contaminated water sources pose significant health risks, including diseases like cholera and diarrhea. Ensuring clean water for children is a fundamental human right, safeguarding their well-being and future prospects. It's a vital step towards securing a healthier, brighter future, free from the burden of preventable waterborne illnesses.",
+        "price": "29.99",
+        "category": "Health",
+        "card_bg": "rgba(0, 82, 255, 0.15)",
+        "category_bg": "rgba(0, 82, 255, 0.20)",
+        "text_color": "#0052FF"
+    },
+    {
+        "id": 2,
+        "image": "https://i.ibb.co/0C5qWmc/Education.png",
+        "title": "Good education",
+        "desc": "Good education is a transformative process that empowers individuals with knowledge, skills, and values. It fosters critical thinking, creativity, and problem-solving abilities. Effective education promotes lifelong learning and equips students to adapt to a rapidly changing world. It nurtures curiosity, encourages curiosity, and instills a sense of responsibility towards society. Quality education is inclusive, accessible, and tailored to individual needs, fostering personal growth and societal progress.",
+        "price": "19.99",
+        "category": "Education",
+        "card_bg": "rgba(255, 68, 74, 0.15)",
+        "category_bg": "rgba(255, 68, 74, 0.20)",
+        "text_color": "#FF444A"
+    },
+    {
+        "id": 3,
+        "image": "https://i.ibb.co/86ppsfm/Clothing.png",
+        "title": "Used Clothing Drive",
+        "desc": "A used clothing drive is a charitable effort that collects gently-worn garments from the community to provide for those in need. These drives promote sustainability by extending the lifespan of clothing and reducing textile waste. Donated items often go to homeless shelters, low-income families, or disaster-stricken areas, offering warmth and dignity to recipients. Participating in such initiatives fosters empathy and solidarity within communities while addressing pressing social and environmental concerns.",
+        "price": "15.49",
+        "category": "Clothing",
+        "card_bg": "rgba(121, 194, 63, 0.15)",
+        "category_bg": "rgba(121, 194, 63, 0.20)",
+        "text_color": "#79C23F"
+    },
+    {
+        "id": 4,
+        "image": "https://i.ibb.co/xzk6mgf/Food.png",
+        "title": "Better Food for Everyone",
+        "desc": "Better food for everyone is a fundamental goal that involves improving the quality, availability, and affordability of nutritious meals. This initiative seeks to combat food insecurity, reduce diet-related health issues, and promote sustainable food production practices. By fostering a culture of informed choices and equitable access, we can ensure that everyone has the opportunity to enjoy healthier and more fulfilling lives through nourishing food options.",
+        "price": "49.99",
+        "category": "Food",
+        "card_bg": "rgba(248, 113, 71, 0.15)",
+        "category_bg": "rgba(248, 113, 71, 0.20)",
+        "text_color": "#F87147"
+    },
+    {
+        "id": 5,
+        "image": "https://i.ibb.co/xzk6mgf/Food.png",
+        "title": "Ensuring Better Food for Everyone",
+        "desc": "Ensuring better food for everyone is a vital mission that involves equitable access to nutritious and affordable meals. It addresses food insecurity, promotes healthier diets, and reduces health disparities. By supporting sustainable agriculture and minimizing food waste, we can create a more just and environmentally responsible food system. This effort not only nourishes individuals but also strengthens communities, fostering well-being and resilience for a brighter future.",
+        "price": "49.99",
+        "category": "Food",
+        "card_bg": "rgba(248, 113, 71, 0.15)",
+        "category_bg": "rgba(248, 113, 71, 0.20)",
+        "text_color": "#F87147"
+    },
+    {
+        "id": 6,
+        "image": "https://i.ibb.co/86ppsfm/Clothing.png",
+        "title": "Be a Part of Our Used Clothing Drive",
+        "desc": "Be a part of our used clothing drive and become a catalyst for positive change. Your involvement can make a significant difference in the lives of those less fortunate. By donating your gently-worn clothing, you're not only providing warmth but also reducing waste and promoting sustainable practices. Join us in this communal effort to give back, fostering a spirit of compassion and environmental responsibility that leaves a lasting impact.",
+        "price": "15.49",
+        "category": "Clothing",
+        "card_bg": "rgba(121, 194, 63, 0.15)",
+        "category_bg": "rgba(121, 194, 63, 0.20)",
+        "text_color": "#79C23F"
+    },
+    {
+        "id": 7,
+        "image": "https://i.ibb.co/0C5qWmc/Education.png",
+        "title": "Education is the backbone of the nation",
+        "desc": "Education is undeniably the backbone of any nation, serving as the cornerstone of progress and development. It empowers individuals with knowledge and skills, shaping them into responsible citizens capable of contributing to society. A well-educated populace drives innovation, economic growth, and social stability. It bridges gaps, fosters inclusivity, and upholds cultural values. Education equips a nation's workforce, leaders, and problem solvers, making it an indispensable foundation for a prosperous future.",
+        "price": "19.99",
+        "category": "Education",
+        "card_bg": "rgba(255, 68, 74, 0.15)",
+        "category_bg": "rgba(255, 68, 74, 0.20)",
+        "text_color": "#FF444A"
+    },
+    {
+        "id": 8,
+        "image": "https://i.ibb.co/bRDvXXC/Health.png",
+        "title": "The Path to Lifelong Health",
+        "desc": "The path to lifelong health is a journey of mindful choices and habits. It encompasses maintaining a balanced diet, regular exercise, and adequate rest. Prioritizing mental health, stress management, and fostering positive relationships are equally vital. Routine check-ups and preventive measures further safeguard well-being. By embracing these principles, individuals can nurture their physical, mental, and emotional health, paving the way for a fulfilling and vibrant life that endures through the years.",
+        "price": "29.99",
+        "category": "Health",
+        "card_bg": "rgba(0, 82, 255, 0.15)",
+        "category_bg": "rgba(0, 82, 255, 0.20)",
+        "text_color": "#0052FF"
+    },
+    {
+        "id": 9,
+        "image": "https://i.ibb.co/bRDvXXC/Health.png",
+        "title": "Stay Safe and Be Aware of Danger",
+        "desc": "Staying safe and being aware of potential dangers is paramount for personal well-being. Vigilance and precaution are essential in navigating life's hazards, whether it's on the road, in unfamiliar places, or online. Awareness of one's surroundings and potential risks can prevent accidents and protect against harm. Practicing safety measures, following guidelines, and staying informed are key to minimizing vulnerabilities and ensuring a secure, fulfilling life.",
+        "price": "29.99",
+        "category": "Health",
+        "card_bg": "rgba(0, 82, 255, 0.15)",
+        "category_bg": "rgba(0, 82, 255, 0.20)",
+        "text_color": "#0052FF"
+    },
+    {
+        "id": 10,
+        "image": "https://i.ibb.co/0C5qWmc/Education.png",
+        "title": "The power of effective education",
+        "desc": "The power of effective education is unparalleled. It transcends boundaries, opening doors to opportunities and shaping informed, empowered individuals. Effective education equips students with critical thinking, problem-solving skills, and a thirst for knowledge. It fosters personal growth, cultivates creativity, and prepares individuals to contribute meaningfully to society. It empowers learners to adapt to a dynamic world, driving progress, innovation, and social change. Ultimately, effective education is the key to unlocking human potential and building a brighter future.",
+        "price": "19.99",
+        "category": "Education",
+        "card_bg": "rgba(255, 68, 74, 0.15)",
+        "category_bg": "rgba(255, 68, 74, 0.20)",
+        "text_color": "#FF444A"
+    },
+    {
+        "id": 11,
+        "image": "https://i.ibb.co/86ppsfm/Clothing.png",
+        "title": " Donate to Our Used Clothing Drive",
+        "desc": "Donate to Our Used Clothing Drive and make a meaningful impact. Your contributions of gently-worn clothing can provide warmth and dignity to those in need. By participating, you promote sustainability, reduce textile waste, and foster a sense of community. Join us in making a positive change, one garment at a time, and help us support individuals and families who require assistance while promoting environmental responsibility.",
+        "price": "15.49",
+        "category": "Clothing",
+        "card_bg": "rgba(121, 194, 63, 0.15)",
+        "category_bg": "rgba(121, 194, 63, 0.20)",
+        "text_color": "#79C23F"
+    },
+    {
+        "id": 12,
+        "image": "https://i.ibb.co/xzk6mgf/Food.png",
+        "title": "The Quest for Better Food for All",
+        "desc": "The quest for better food for all is a journey towards nourishing communities and enhancing quality of life. It entails addressing food deserts, promoting food literacy, and advocating for fair and sustainable agricultural practices. By prioritizing accessibility, affordability, and nutritional value, we aim to eradicate hunger, improve health, and reduce environmental impacts. This shared endeavor fosters healthier individuals and a more equitable, resilient society.",
+        "price": "49.99",
+        "category": "Food",
+        "card_bg": "rgba(248, 113, 71, 0.15)",
+        "category_bg": "rgba(248, 113, 71, 0.20)",
+        "text_color": "#F87147"
+    }
+]
