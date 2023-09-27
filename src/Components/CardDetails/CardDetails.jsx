@@ -33,9 +33,9 @@ const CardDetails = () => {
         <div>
             <div className='my-10 relative px-5'>
                 <div className="">
-                    <img className='w-screen rounded-lg ' src={image} alt="" />
+                    <img className='w-full rounded-lg ' src={image} alt="" />
                 </div>
-                <div className='w-[1060px] -mt-20 rounded-bl-lg rounded-br-lg p-10 bg-blend-overlay opacity-30 absolute bg-black'>
+                <div className='w-96 md:w-[728px] lg:w-[1060px] -mt-20 rounded-bl-lg rounded-br-lg p-10 bg-blend-overlay opacity-30 absolute bg-black'>
 
                 </div>
                 <div className='absolute ml-5 -mt-14'>

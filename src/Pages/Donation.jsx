@@ -20,7 +20,7 @@ const Donation = () => {
     return (
         <div>
 
-            <div className='grid grid-cols-1 lg:grid-cols-2 my-10 gap-5'>
+            <div className='grid grid-cols-1 lg:grid-cols-2 my-10 mx-3 md:mx-3 lg:mx-0 gap-5'>
                 {
                     card.slice(0, cardLength).map(item =>
                         <div
@@ -28,7 +28,7 @@ const Donation = () => {
                             key={item.id}
                             style={{ backgroundColor: item.card_bg }}>
                             <div>
-                                <span><img src={item.image} alt="" /></span>
+                                <span><img className='w-full' src={item.image} alt="" /></span>
                             </div>
                             <div className=" ml-4 my-7 space-y-3">
                                 <h2

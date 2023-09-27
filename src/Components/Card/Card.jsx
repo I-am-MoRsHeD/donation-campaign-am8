@@ -11,7 +11,7 @@ const Card = ({ card }) => {
             to={`/details/${id}`}
             style={{ backgroundColor: card_bg }}
             className='card shadow-xl'>
-            <figure><img src={image} alt="Shoes" /></figure>
+            <figure><img className='w-full' src={image} alt="Shoes" /></figure>
             <div className=" ml-4 my-7 space-y-3">
                 <h2
                     className='font-medium text-center text-sm w-20 p-1 rounded-lg'

@@ -23,28 +23,30 @@ const Navbar = () => {
                                 </NavLink>
                             </li>
                             <li>
-                            <NavLink
-                                to="/donation"
-                                className={({ isActive, isPending }) =>
-                                    isPending ? "pending" : isActive ? "text-[#FF444A] underline" : ""
-                                }
-                            >
-                                <span className='font-normal'>Donation</span>
-                            </NavLink>
-                        </li>
-                        <li>
-                            <NavLink
-                                to="/statistics"
-                                className={({ isActive, isPending }) =>
-                                    isPending ? "pending" : isActive ? "text-[#FF444A] underline" : ""
-                                }
-                            >
-                                <span className='font-normal'>Statistics</span>
-                            </NavLink>
-                        </li>
+                                <NavLink
+                                    to="/donation"
+                                    className={({ isActive, isPending }) =>
+                                        isPending ? "pending" : isActive ? "text-[#FF444A] underline" : ""
+                                    }
+                                >
+                                    <span className='font-normal'>Donation</span>
+                                </NavLink>
+                            </li>
+                            <li>
+                                <NavLink
+                                    to="/statistics"
+                                    className={({ isActive, isPending }) =>
+                                        isPending ? "pending" : isActive ? "text-[#FF444A] underline" : ""
+                                    }
+                                >
+                                    <span className='font-normal'>Statistics</span>
+                                </NavLink>
+                            </li>
                         </ul>
                     </div>
-                    <img className='w-32' src='https://i.ibb.co/GMrpbjz/Logo.png'></img>
+
+                    <img className='w-32 mx-24 md:mx-56 lg:mx-0' src='https://i.ibb.co/GMrpbjz/Logo.png'></img>
+
                 </div>
                 <div className="navbar-end hidden lg:flex">
                     <ul className="flex gap-4 px-1">
