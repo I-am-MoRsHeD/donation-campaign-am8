@@ -4,9 +4,10 @@ import { createBrowserRouter } from 'react-router-dom';
 import Home from '../Pages/Home';
 import MainLayout from '../Layout/MainLayout';
 import Donation from '../Pages/Donation';
-import Statistics from '../Pages/Statistics';
+
 import CardDetails from '../Components/CardDetails/CardDetails';
 import ErrorPage from '../Components/ErrorPage/ErrorPage';
+import Statistics from '../Pages/Statistics';
 
 const route = createBrowserRouter([
     {
